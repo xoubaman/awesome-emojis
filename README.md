@@ -15,10 +15,10 @@ Just run
 
 	$ yarn install
 
-![Doge](troll.png "Troll")	
+![It's a trap!](trap.png "It's a trap!")	
 
 # Roadmap
 
-Jake
-Doge with it
-and some more TBD
+* Jake
+* Doge with it
+* and some more TBD
