@@ -25,6 +25,7 @@
 ![](squirtle.png)
 ![](success.png)
 ![](suspicious.gif)
+![](take_my_money.png)
 ![](this_is_fine.png)
 ![](trap.png)
 ![](trolldance.gif)
