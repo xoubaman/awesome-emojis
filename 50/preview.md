@@ -24,6 +24,7 @@
 ![](sparta.png)
 ![](squirtle.png)
 ![](success.png)
+![](suspicious.gif)
 ![](this_is_fine.png)
 ![](trap.png)
 ![](trolldance.gif)
