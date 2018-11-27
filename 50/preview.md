@@ -3,6 +3,7 @@
 ![](all_the_things.png)
 ![](areyoukiddingme.png)
 ![](bananadance.gif)
+![](epic_win.png)
 ![](challenge_accepted.png)
 ![](cool-doge.gif)
 ![](doge3d.gif)

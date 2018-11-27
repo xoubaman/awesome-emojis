@@ -8,6 +8,7 @@
 ![](doge3d.gif)
 ![](doge.png)
 ![](dr_evil.jpg)
+![](epic_win.png)
 ![](facepalm.png)
 ![](feels_good_man.png)
 ![](forever_alone.png)
