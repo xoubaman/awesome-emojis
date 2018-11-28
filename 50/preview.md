@@ -1,38 +1,62 @@
 # Preview
 
-![](all_the_things.png)
-![](areyoukiddingme.png)
-![](bananadance.gif)
-![](epic_win.png)
-![](challenge_accepted.png)
-![](cool-doge.gif)
-![](doge3d.gif)
-![](doge.png)
-![](dr_evil.jpg)
-![](facepalm.png)
-![](feels_good_man.png)
-![](forever_alone.png)
-![](grumpycat.png)
-![](homer_appear.gif)
-![](homer_disappear.gif)
-![](kermit.jpg)
-![](lol.png)
-![](megusta.png)
-![](notbad.png)
-![](pundog.png)
-![](rage.png)
-![](sad_pepe.png)
-![](sparta.png)
-![](squirtle.png)
-![](success.png)
-![](suspicious.gif)
-![](take_my_money.png)
-![](thinking_kermit.png)
-![](this_is_fine.png)
-![](trap.png)
+## Trolling
+
 ![](trolldance.gif)
 ![](trolled_troll.png)
 ![](troll.png)
 ![](troll_sad.png)
-![](tumbleweed.gif)
+
+## Doge-ing
+
+![](doge.png)
+![](doge3d.gif)
+![](cool-doge.gif)
+
+## Disagreement
+
+![](areyoukiddingme.png)
+![](kermit.jpg)
+![](pundog.png)
+![](suspicious.gif)
+![](facepalm.png)
+![](grumpycat.png)
 ![](yao.png)
+![](tumbleweed.gif)
+
+## Agreement
+
+![](all_the_things.png)
+![](epic_win.png)
+![](megusta.png)
+![](notbad.png)
+
+## Joy
+
+![](bananadance.gif)
+![](feels_good_man.png)
+![](lol.png)
+![](success.png)
+
+## Sorrow
+
+![](forever_alone.png)
+![](rage.png)
+![](sad_pepe.png)
+
+## Philosophical
+
+![](challenge_accepted.png)
+![](dr_evil.jpg)
+![](homer_appear.gif)
+![](homer_disappear.gif)
+![](thinking_kermit.png)
+![](this_is_fine.png)
+![](trap.png)
+
+
+## Influence other's behavior
+
+![](squirtle.png)
+![](sparta.png)
+![](take_my_money.png)
