@@ -11,6 +11,7 @@
 
 ![](doge.png)
 ![](doge3d.gif)
+![](doge_with_it.png)
 ![](cool-doge.gif)
 
 ## Disagreement
@@ -41,6 +42,7 @@
 ## Sorrow
 
 ![](forever_alone.png)
+![](jake.png)
 ![](rage.png)
 ![](sad_pepe.png)
 
@@ -57,6 +59,7 @@
 
 ## Influence other's behavior
 
+![](shurperro.png)
 ![](squirtle.png)
 ![](sparta.png)
 ![](take_my_money.png)
