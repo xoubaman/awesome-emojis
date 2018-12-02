@@ -6,6 +6,7 @@
 ![](trolled_troll.png)
 ![](troll.png)
 ![](troll_sad.png)
+![](trolldad.png)
 
 ## Doge-ing
 
