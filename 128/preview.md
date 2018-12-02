@@ -18,13 +18,15 @@
 ## Disagreement
 
 ![](areyoukiddingme.png)
-![](kermit.jpg)
-![](pundog.png)
-![](suspicious.gif)
 ![](facepalm.png)
 ![](grumpycat.png)
-![](yao.png)
+![](kermit.jpg)
+![](mother_of_god.png)
+![](pundog.png)
+![](suspicious.gif)
 ![](tumbleweed.gif)
+![](wtf.png)
+![](yao.png)
 
 ## Agreement
 
