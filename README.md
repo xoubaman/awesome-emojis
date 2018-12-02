@@ -1,9 +1,10 @@
 # Awesome emojis
 
-Because all this agile bullshit is based on communication, and emojis are the core of a
-healthy communication.
+Because all this agile bullshit is based on communication, and emojis are the
+core of a healthy communication.
 
-This is a list of curated emojis that MUST be in your messaging application of choice.
+This is a list of curated emojis that MUST be in your messaging application of
+choice.
 
 # Dependencies
 
@@ -11,15 +12,11 @@ This is a list of curated emojis that MUST be in your messaging application of c
 
 # Installation
 
-Just run
-
-	$ yarn install 
-
-![Problem?](50/trolldance.gif "Problem?")	
+![Such installation](50/doge_with_it.png)
 
 # Usage
 
-Just download your preferred size and do the f*ck you want with them ![Add all the emojis](50/all_the_things.png "Add all the emojis")	
+![Much usage plz](50/doge3d.gif)	
 
 # Preview
 
@@ -27,10 +24,4 @@ Check all the stuff:
  * [128x128](128/preview.md)
  * [50x50](50/preview.md)
  
-![Such preview](50/cool-doge.gif)
-
-# Roadmap
-
-* Jake
-* Doge with it
-* and some more TBD
+![Such previews](50/cool-doge.gif)
