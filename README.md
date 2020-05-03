@@ -22,8 +22,6 @@ choice.
 ![](rage/fffuuuuu.png)
 ![](rage/whyyy.png)
 
-
-
 ![](rage/determined.png)
 ![](rage/are_you_kidding_me.png)
 ![](rage/challenge_accepted.png)
@@ -39,10 +37,10 @@ choice.
 ![](rage/y_u_no.png)
 
 ![](rage/all_the_things.png)
+![](rage/puke_rainbows.png)
 ![](rage/i_know_that_feel.png)
 ![](rage/its_something.png)
 ![](rage/nothing_to_do_here.png)
-
 
 ![](rage/yao.png)
 ![](rage/notbad.png)
@@ -90,6 +88,7 @@ choice.
 ![](misc/grumpycat.png)
 ![](misc/jake.png)
 ![](misc/sparta.png)
+![](misc/confused_cat.png)
 ![](misc/kermit.jpg)
 ![](misc/thinking_kermit.png)
 ![](misc/this_is_fine.png)
