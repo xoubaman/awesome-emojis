@@ -100,6 +100,7 @@ choice.
 ![](misc/squirtle.png)
 ![](misc/suspicious.gif)
 ![](misc/take_my_money.png)
+![](misc/moss.png)
 ![](misc/homer_appear.gif)
 ![](misc/homer_disappear.gif)
 ![](dance/bananadance.gif)
